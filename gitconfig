@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rosiegreen0203@gmail.com
+	name = Rosie Green
